@@ -1,0 +1,12 @@
+#Emacs backup files
+*~
+
+# Additional Emacs temporary files (optional but recommended)
+\#*\#
+.\#*
+
+# Emacs auto-save files
+.saves-*
+
+# Emacs session files
+.session
